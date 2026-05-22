@@ -1,8 +1,8 @@
-site_name: SOCRATIC
+site_name: SocraticArgument
 site_description: Socratic debate notes and replies
-site_url: https://plebeiusgaragicus.github.io/SOCRATIC/
-repo_url: https://github.com/PlebeiusGaragicus/SOCRATIC
-repo_name: PlebeiusGaragicus/SOCRATIC
+site_url: https://abvstudio-net.github.io/SocraticArgument/
+repo_url: https://github.com/abvstudio-net/SocraticArgument
+repo_name: abvstudio-net/SocraticArgument
 
 docs_dir: docs
 
