@@ -12,7 +12,7 @@ My interlocutor has some thoughts:
 
 > Trump is greatly influenced by Israel. The Israel-first people in the US and inside of Israel, have far more power and influence than is good for America. Trump should be America-first, but he can tend to be Israel-first.
 
-> People are upset with mass civilian slaughter. That totally makes sense. Anyone that doesn't care about that doesn't have the requisite empathy to be of sound mind. These are the same people who would support Moa and Stalin if they're being logically consistent.  (background: Israel invaded Gaza and has been fighting a war there circa 2024-2026, many civilians died)
+> People are upset with mass civilian slaughter. That totally makes sense. Anyone that doesn't care about that doesn't have the requisite empathy to be of sound mind. These are the same people who would support Mao and Stalin if they're being logically consistent.  (background: Israel invaded Gaza and has been fighting a war there circa 2024-2026, many civilians died)
 
 > Here are two common positions today. These positions are often cited and contradict each other:
 > 1. "The Iranian regime is so repressive to the Iranian population." (I agree with this one)
