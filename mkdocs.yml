@@ -1,0 +1,53 @@
+site_name: SOCRATIC
+site_description: Socratic debate notes and replies
+site_url: https://plebeiusgaragicus.github.io/SOCRATIC/
+repo_url: https://github.com/PlebeiusGaragicus/SOCRATIC
+repo_name: PlebeiusGaragicus/SOCRATIC
+
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+nav:
+  - Home: index.md
+  - How to debate: how-to-debate/SKILL.md
+  - Examples:
+    - Vibecoding: how-to-debate/examples/vibecoding.md
+  - Topics:
+    - Israel:
+      - Initial position: ISRAEL/initial-position.md
+      - Initial questions: ISRAEL/initial-questions.md
+      - Initial reply: ISRAEL/initial-reply.md
+      - Argument: ISRAEL/argument.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
