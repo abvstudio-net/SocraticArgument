@@ -41,6 +41,7 @@ nav:
       - Initial reply: ISRAEL/initial-reply.md
       - Suggested edits: ISRAEL/suggested-edits.md
       - Argument: ISRAEL/argument.md
+      - Red herring: ISRAEL/red-herring.md
 
 markdown_extensions:
   - admonition
